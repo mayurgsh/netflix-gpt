@@ -1,9 +1,12 @@
 #Netflix GPT
 --create react app
 -setup tailwind
+-routing
 -Header
   -Login Form
   -Sign Up form
+-form Validation
+-useRef Hook
 
 #Features
 -Login /sign in page
