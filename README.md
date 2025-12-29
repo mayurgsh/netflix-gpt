@@ -28,7 +28,7 @@
 -update store with trailer video
 -embeded the youtube video and make it auto play and mute
 -tailwind classes to make it look awsome
-
+-Secondary Component
 
 
 
